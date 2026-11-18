@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.kavija423_glitch.twa",
+        "sha256_cert_fingerprints": ["50:9C:78:5D:60:2F:46:A5:92:C6:25:E4:9C:64:FF:E1:88:DE:58:D0:DB:0B:FB:DE:2C:3A:11:7C:39:37:D9:C0"]
+      }
+    }]
